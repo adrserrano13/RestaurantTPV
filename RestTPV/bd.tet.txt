@@ -1,0 +1,13 @@
+Server = "localhost";                    
+UserID = "root";
+Password = "";
+Database = "restaurante";
+
+
+3 tablas diferentes:
+
+usuarios: gestiona el inicio de sesión de usuarios
+
+productos: base de datos con todos los productos disponibles
+
+productosmesa: productos que se insertan y se borrarn en la base de datos de forma dinámica para controlar las comandas que hay en cada mesa

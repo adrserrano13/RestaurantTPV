@@ -1,0 +1,141 @@
+c:\users\dint\source\repos\TPV\TPV\bin\Debug\TPV.exe.config
+c:\users\dint\source\repos\TPV\TPV\bin\Debug\TPV.exe
+c:\users\dint\source\repos\TPV\TPV\bin\Debug\TPV.pdb
+c:\users\dint\source\repos\TPV\TPV\obj\Debug\TPV.csprojResolveAssemblyReference.cache
+c:\users\dint\source\repos\TPV\TPV\obj\Debug\TPV.Form1.resources
+c:\users\dint\source\repos\TPV\TPV\obj\Debug\TPV.Properties.Resources.resources
+c:\users\dint\source\repos\TPV\TPV\obj\Debug\TPV.csproj.GenerateResource.cache
+c:\users\dint\source\repos\TPV\TPV\obj\Debug\TPV.csproj.CoreCompileInputs.cache
+c:\users\dint\source\repos\TPV\TPV\obj\Debug\TPV.exe
+c:\users\dint\source\repos\TPV\TPV\obj\Debug\TPV.pdb
+c:\users\dint\source\repos\TPV\TPV\obj\Debug\TPV.explicacio_2_cs.resources
+C:\Users\DINT\source\repos\TPV\TPV\obj\Debug\TPV.CustomProductos.resources
+C:\Users\DINT\source\repos\TPV\TPV\obj\Debug\TPV.FormSalones.resources
+C:\Users\DINT\source\repos\TPV\TPV\obj\Debug\TPV.UserNext.resources
+C:\Users\DINT\source\repos\TPV\TPV\obj\Debug\TPV.explicacio(2)cs.resources
+C:\Users\DINT\source\repos\Nueva carpeta\TPV\TPV\bin\Debug\TPV.exe.config
+C:\Users\DINT\source\repos\Nueva carpeta\TPV\TPV\bin\Debug\TPV.exe
+C:\Users\DINT\source\repos\Nueva carpeta\TPV\TPV\bin\Debug\TPV.pdb
+C:\Users\DINT\source\repos\Nueva carpeta\TPV\TPV\obj\Debug\TPV.csprojResolveAssemblyReference.cache
+C:\Users\DINT\source\repos\Nueva carpeta\TPV\TPV\obj\Debug\TPV.CustomProductos.resources
+C:\Users\DINT\source\repos\Nueva carpeta\TPV\TPV\obj\Debug\TPV.explicacio_2_cs.resources
+C:\Users\DINT\source\repos\Nueva carpeta\TPV\TPV\obj\Debug\TPV.Form1.resources
+C:\Users\DINT\source\repos\Nueva carpeta\TPV\TPV\obj\Debug\TPV.FormSalones.resources
+C:\Users\DINT\source\repos\Nueva carpeta\TPV\TPV\obj\Debug\TPV.Properties.Resources.resources
+C:\Users\DINT\source\repos\Nueva carpeta\TPV\TPV\obj\Debug\TPV.UserNext.resources
+C:\Users\DINT\source\repos\Nueva carpeta\TPV\TPV\obj\Debug\TPV.csproj.GenerateResource.cache
+C:\Users\DINT\source\repos\Nueva carpeta\TPV\TPV\obj\Debug\TPV.csproj.CoreCompileInputs.cache
+C:\Users\DINT\source\repos\Nueva carpeta\TPV\TPV\obj\Debug\TPV.exe
+C:\Users\DINT\source\repos\Nueva carpeta\TPV\TPV\obj\Debug\TPV.pdb
+C:\Users\adri1\Desktop\pasar\TPV\TPV\bin\Debug\TPV.exe.config
+C:\Users\adri1\Desktop\pasar\TPV\TPV\bin\Debug\TPV.exe
+C:\Users\adri1\Desktop\pasar\TPV\TPV\bin\Debug\TPV.pdb
+C:\Users\adri1\Desktop\pasar\TPV\TPV\obj\Debug\TPV.csprojAssemblyReference.cache
+C:\Users\adri1\Desktop\pasar\TPV\TPV\obj\Debug\TPV.CustomProductos.resources
+C:\Users\adri1\Desktop\pasar\TPV\TPV\obj\Debug\TPV.explicacio_2_cs.resources
+C:\Users\adri1\Desktop\pasar\TPV\TPV\obj\Debug\TPV.Form1.resources
+C:\Users\adri1\Desktop\pasar\TPV\TPV\obj\Debug\TPV.FormSalones.resources
+C:\Users\adri1\Desktop\pasar\TPV\TPV\obj\Debug\TPV.Properties.Resources.resources
+C:\Users\adri1\Desktop\pasar\TPV\TPV\obj\Debug\TPV.UserNext.resources
+C:\Users\adri1\Desktop\pasar\TPV\TPV\obj\Debug\TPV.csproj.GenerateResource.cache
+C:\Users\adri1\Desktop\pasar\TPV\TPV\obj\Debug\TPV.exe
+C:\Users\adri1\Desktop\pasar\TPV\TPV\obj\Debug\TPV.pdb
+C:\Users\adri1\Desktop\pasar\TPV\TPV\obj\Debug\TPV.FormSalon.resources
+C:\Users\adri1\Desktop\pasar\TPV\TPV\obj\Debug\TPV.FormAñadir.resources
+C:\Users\adri1\Desktop\pasar\TPV\TPV\obj\Debug\TPV.FormTerraza.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\bin\Debug\TPV.exe.config
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\bin\Debug\TPV.exe
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\bin\Debug\TPV.pdb
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.csprojAssemblyReference.cache
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.explicacio_2_cs.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormAñadir.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormSalones.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormSalon.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormTerraza.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.Properties.Resources.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.csproj.GenerateResource.cache
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.exe
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.pdb
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormMesa.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\bin\Debug\MySql.Data.dll
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\bin\Debug\Google.Protobuf.dll
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\bin\Debug\Renci.SshNet.dll
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\bin\Debug\MySql.Data.xml
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormUsuario.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.csproj.CopyComplete
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormSesion.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.Form1.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.ControlProd.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.Menu.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormCambio.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.Form2Gestion.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\bin\Debug\TPV.exe.config
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\bin\Debug\TPV.exe
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\bin\Debug\TPV.pdb
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\bin\Debug\MySql.Data.dll
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\bin\Debug\Google.Protobuf.dll
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\bin\Debug\Renci.SshNet.dll
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\bin\Debug\MySql.Data.xml
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.csprojAssemblyReference.cache
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.AñadirProductos.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.CustomProductos.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.explicacio_2_cs.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.Form1.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.Unidades.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.Form2Gestion.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormAñadir.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormCambio.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormSalones.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormMesa.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormProductos.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormSalon.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormSesion.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormTerraza.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormUsuario.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.Menu.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.Properties.Resources.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.ControlProd.resources
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.csproj.GenerateResource.cache
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.csproj.CopyComplete
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.exe
+C:\Users\adri1\Documents\proyectoDINT\TPV\TPV\obj\Debug\TPV.pdb
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormArqueo.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormMesaTerr.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.AnadirProductos.resources
+C:\Users\adri1\Desktop\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormEliminar.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\bin\Debug\TPV.exe.config
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\bin\Debug\TPV.exe
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\bin\Debug\TPV.pdb
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\bin\Debug\MySql.Data.dll
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\bin\Debug\Google.Protobuf.dll
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\bin\Debug\Renci.SshNet.dll
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\bin\Debug\MySql.Data.xml
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.csprojAssemblyReference.cache
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.AnadirProductos.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.explicacio_2_cs.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.Form1.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormArqueo.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormEliminar.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormMesaTerr.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.Form2Gestion.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormAñadir.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormCambio.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormSalones.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormMesa.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormSalon.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormSesion.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormTerraza.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.FormUsuario.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.Menu.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.Properties.Resources.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.ControlProd.resources
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.csproj.GenerateResource.cache
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.csproj.CopyComplete
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.exe
+C:\Users\adri1\Desktop\RestTPV\RestTPV\proyectoDINT\TPV\TPV\obj\Debug\TPV.pdb

@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1F3B59D5-FE3F-4376-ADD7-A464FDB911D3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TPV</RootNamespace>
+    <AssemblyName>TPV</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.19.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnadirProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnadirProductos.Designer.cs">
+      <DependentUpon>AnadirProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="explicacio%282%29cs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="explicacio%282%29cs.Designer.cs">
+      <DependentUpon>explicacio%282%29cs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormArqueo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormArqueo.Designer.cs">
+      <DependentUpon>FormArqueo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEliminar.Designer.cs">
+      <DependentUpon>FormEliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMesaTerr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMesaTerr.Designer.cs">
+      <DependentUpon>FormMesaTerr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2Gestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2Gestion.Designer.cs">
+      <DependentUpon>Form2Gestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAnadirMesas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAnadirMesas.Designer.cs">
+      <DependentUpon>FormAnadirMesas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCambio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCambio.Designer.cs">
+      <DependentUpon>FormCambio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMesa.Designer.cs">
+      <DependentUpon>FormMesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSalon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSalon.Designer.cs">
+      <DependentUpon>FormSalon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCrear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCrear.Designer.cs">
+      <DependentUpon>FormCrear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSesion.Designer.cs">
+      <DependentUpon>FormSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTerraza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTerraza.Designer.cs">
+      <DependentUpon>FormTerraza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUsuario.Designer.cs">
+      <DependentUpon>FormUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ControlProd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlProd.Designer.cs">
+      <DependentUpon>ControlProd.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnadirProductos.resx">
+      <DependentUpon>AnadirProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="explicacio%282%29cs.resx">
+      <DependentUpon>explicacio%282%29cs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormArqueo.resx">
+      <DependentUpon>FormArqueo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEliminar.resx">
+      <DependentUpon>FormEliminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMesaTerr.resx">
+      <DependentUpon>FormMesaTerr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2Gestion.resx">
+      <DependentUpon>Form2Gestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAnadirMesas.resx">
+      <DependentUpon>FormAnadirMesas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCambio.resx">
+      <DependentUpon>FormCambio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCrear.resx">
+      <DependentUpon>FormCrear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMesa.resx">
+      <DependentUpon>FormMesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSalon.resx">
+      <DependentUpon>FormSalon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSesion.resx">
+      <DependentUpon>FormSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTerraza.resx">
+      <DependentUpon>FormTerraza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUsuario.resx">
+      <DependentUpon>FormUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlProd.resx">
+      <DependentUpon>ControlProd.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\madera nogal clasico wood wallpaper %283%29-674297_800.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cropped-Nut-Cook-Logo-Fondo-Transparente-Color-2-300x300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menuTRANS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masTRANS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menosTRANS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DelanteTRANS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\findo4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2020-02-08 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\de61feac-c299-4b6c-86da-ca789dd58d61_200x200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\long-arrow-left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\long-arrow-left1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cobrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DelanteTRANS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caja-registradora %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dinero %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tarjeta-de-credito.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caja-registradora %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dinero %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DelanteTRANS - copia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DelanteTRANS - copia1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
